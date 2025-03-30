@@ -21,6 +21,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>  
 
+### Frameworks & Tools 🛠  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+</p>
+
 ## GitHub Stats 📈  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio003&theme=algolia)](https://github.com/Ignacio003/github-readme-stats)  
@@ -35,3 +44,4 @@
     <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" height="45" width="45" />
   </a>
 </p>
+
