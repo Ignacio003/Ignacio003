@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png"/>
 </p>
