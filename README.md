@@ -40,8 +40,8 @@
   <a href="https://www.linkedin.com/in/ignacio-fortes-soria/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="45" width="45" />
   </a>
-  <a href="mailto:ignaciofortessoria@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" height="45" width="45" />
-  </a>
+  <br>
+  📧 Email: ignaciofortessoria@gmail.com
 </p>
+
 
