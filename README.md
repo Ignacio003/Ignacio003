@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi, I'm Ignacio Fortes 👋 </b></h1>
 
 ## About Me :
-
-- 🎓 Currently, I am studying for a degree in Computer Engineering at the University of Granada.  
+- 🧑‍💼 Full stack developer (Angular, .NET) in HSN.
+- 🎓 Degree in Computer Engineering at the University of Granada.  
 - 💡 Passionate about software development, UI/UX design, and system architecture.  
 - 🌱 Constantly learning about Android development, mesh networking, and P2P streaming.  
 - 🏡 Based in **Granada, Spain**.  
